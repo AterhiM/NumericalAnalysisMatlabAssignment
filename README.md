@@ -1,4 +1,4 @@
-## **The Approximation of Functions - Numerical Differentiation - Numerical Integration**
+## **Approximation of Functions - Numerical Differentiation - Numerical Integration**
 
 This is a Numerical Analysis assignement that enables you to discover, with mathematical details and matlab code, 
 3 main methods in Numerical Analysis presented in 3 problems .
