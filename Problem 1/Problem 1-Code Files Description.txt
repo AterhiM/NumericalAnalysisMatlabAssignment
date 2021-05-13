@@ -1,0 +1,57 @@
+			Functions and files description:
+----------------------------------------------------------------
+----------------------------------------------------------------
+
+f1.m
+
+This file contains the definition of function f1.
+----------------------------------------------------------------
+
+f2.m
+
+This file contains the definition of function f2.
+----------------------------------------------------------------
+
+## Since the function f3 is the same as f2, we didn't define it.
+----------------------------------------------------------------
+
+li.m
+
+This file contains the definition of a function called 'li()', which returns a vetor that has the evaluation of Lagrange polynomials through a given point x.
+----------------------------------------------------------------
+
+Lagrange.m
+
+This file contains the definition of a function called 'Lagrange()', which computes 
+Lagrange polynomials trough {y0, y1, ..., yM}.
+These polynomials are given in a matrix form.
+In the other hand, it returns Lagrange interpolation function 'pn'.
+----------------------------------------------------------------
+
+wn.m
+
+This file contains the definition of a function called 'wn()', which computes the function 
+w_{n+1} mentionned in the lecture notes.
+----------------------------------------------------------------
+
+wn_UpperBound.m
+
+This file contains the script to compute the upper bound for all given n.(n = 2, 4,8, 16).
+----------------------------------------------------------------
+
+Lagrange4f1.m
+
+This file contains the full script related to the interpolation using Lagrange polynomials 
+and the error observed for function 'f1'.
+----------------------------------------------------------------
+
+Lagrange4f2.m
+
+This file contains the full script related to the interpolation using Lagrange polynomials 
+and the error observed for function 'f2'. 
+----------------------------------------------------------------
+
+Lagrange4f3.m
+
+This file contains the full script related to the interpolation using Lagrange polynomials 
+and the error observed for function 'f3'. 

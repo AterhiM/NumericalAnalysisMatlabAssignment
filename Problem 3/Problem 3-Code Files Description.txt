@@ -1,0 +1,17 @@
+			Functions and files description:
+--------------------------------------------------------------------------------------------------------------------------------
+
+g.m
+
+This file contains the definition of function g.
+----------------------------------------------------------------
+
+Gauss3points.m
+
+This file contains the definition of a function called 'Gauss3points' which takes as an argument the number of segments N and returns the approximated solution to the integral using Gauss Quadrature formula.
+----------------------------------------------------------------
+
+Gauss.m
+
+This file contains the full script related to the approximation using Gauss Quadrature formula and the observed errors.
+----------------------------------------------------------------
