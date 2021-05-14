@@ -28,7 +28,7 @@ In this repository, you will find 3 files for each problem. Each problem contain
 - Code files description for each Matlab code related to which problem.
 
 ## **Authors:**
-- ATERHI Mouad --> @AterhiM
-- BOUCHAARA Mustapha --> @mustaphabouchaara
+* **ATERHI Mouad** - [AterhiM](https://github.com/AterhiM)
+* **BOUCHAARA Mustapha** -[mustaphabouchaara](https://github.com/mustaphabouchaara) 
 
 ## **Enjoy!**
